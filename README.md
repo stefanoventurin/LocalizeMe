@@ -1,6 +1,6 @@
 # LocalizeMe
 Swift Class that help to translate iOS application using Localizable.string file
-
+Written in Swift 3.0
 
 Example of use:
 
